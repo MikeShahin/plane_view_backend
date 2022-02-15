@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: MyString
+  route: MyString
+  date: MyString
+  local_time: MyString
+  side: MyString
+  pictures: MyString
+  comments: MyString
+
+two:
+  user: MyString
+  route: MyString
+  date: MyString
+  local_time: MyString
+  side: MyString
+  pictures: MyString
+  comments: MyString
